@@ -1,0 +1,27 @@
+{
+  "name": "@yago.gif/prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Yago Henrique dos Santos",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yagohsp/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yagohsp/prettier-config/issues"
+  },
+  "homepage": "https://github.com/yagohsp/prettier-config#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "prettier",
+    "prettier-config",
+    "prettierconfig",
+    "yagogif",
+    "yago.gif"
+  ]
+}
